@@ -11,4 +11,9 @@
 - jednoduchá hra, při tom úrovně můžou být zrádné a nevyzpytatelné
 
 ## Ovládaní 
-- ovladaní WASD, šipky a mezerník
+- ovladaní WASD, šipky
+- šipky mění v jakém patře se nacházíte 
+- WASD klasické ovládaní pohybu 
+
+## Cíl hry
+-
