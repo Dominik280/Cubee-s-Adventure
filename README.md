@@ -18,4 +18,8 @@
 ## Cíl hry
 - v různých úrovních se nachazejí různé, překážky přes které se musíte dostat do cíle
 - v kazdé úrovni se nachazí určity počet coinů
-- v některých úrovních je klíč, který musíte najít
+- v některých úrovních je klíč, který musíte najít, aby bylo možné jít do dalších úrovní
+- po každých pěti úrovních se nachazí boss, přes kterého se musíte dostat, k otevření následující úrovně
+
+## překážky 
+- 
