@@ -16,4 +16,6 @@
 - WASD klasické ovládaní pohybu 
 
 ## Cíl hry
--
+-v různých úrovních se nachazejí různé, překážky přes které se musíte dostat do cíle
+-v kazdé úrovni se nachazí určity počet coinů
+-v některých úrovních je klíč, který musíte najít
