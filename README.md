@@ -6,6 +6,7 @@
 
 ## Představení
 - jméno: Cubee´s Adventure
+- hra bude určená pro všechni věkové kategorie
 - finálním produktem je hra jménem Cubee´s Adventure
 - hra se zaměřuje hlavně na postřeh a lehce na logiku
 - jednoduchá hra, při tom úrovně můžou být zrádné a nevyzpytatelné
@@ -22,4 +23,10 @@
 - po každých pěti úrovních se nachazí boss, přes kterého se musíte dostat, k otevření následující úrovně
 
 ## překážky 
-- 
+- barevné brány, podle toho jakou máte barvu, takovou bránou budete moct projít
+- spike
+- zeď
+
+
+## programy
+- Unity
