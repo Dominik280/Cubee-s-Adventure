@@ -6,5 +6,9 @@
 
 ## Představení
 - jméno: Cubee´s Adventure
-- Finálním produktem je hra jménem Cubee´s Adventure
+- finálním produktem je hra jménem Cubee´s Adventure
 - hra se zaměřuje hlavně na postřeh a lehce na logiku
+- jednoduchá hra, při tom úrovně můžou být zrádné a nevyzpytatelné
+
+## Ovládaní 
+- ovladaní WASD, šipky a mezerník
