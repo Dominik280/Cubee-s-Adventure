@@ -1,4 +1,4 @@
-| Týden       | Práce       | Test Text     |
+| Týden       | Práce       | Vypracoval    |
 | :---        |    :----:   |          ---: |
-| Header      | Title       |   -[x]           |
-| Paragraph   | Text        |   -[x]            |
+| 16.11-22.11      | Doplnění wireframe, diagramů       |   Marek Tyl          |
+| Paragraph   | Text        |              |
