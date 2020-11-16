@@ -1,4 +1,4 @@
-| Syntax      | Description | Test Text     |
+| Týden       | Práce       | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Header      | Title       |    [ ]        |
+| Paragraph   | Text        |    [ ]        |
