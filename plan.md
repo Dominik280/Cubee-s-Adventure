@@ -1,4 +1,4 @@
 | Týden       | Práce       | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       |    [ ]        |
-| Paragraph   | Text        |    [ ]        |
+| Header      | Title       |   -[x]           |
+| Paragraph   | Text        |   -[x]            |
