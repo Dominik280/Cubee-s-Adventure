@@ -1,8 +1,5 @@
-| Týden       | Práce       | Má udělat    |
+| Týden       | Dominik Svoboda       | Marek Tyl    |
 | :---        |    :----:   |          ---: |
-| 16.11-22.11      | Doplnění wireframe, diagramů       |Marek Tyl  |
-| 16.11-22.11   | Práce na shopu        | Dominik Svoboda |
-| 23.11-30.11      | Design úrovní       |Marek Tyl  |
-| 23.11-29.11   | debugging kódu po smrti        | Dominik Svoboda |
-| 30.11-6.12    | design skinů, návrh bossů        |Marek Tyl  |
-| 30.11-6.12   | realizace bossů       | Dominik Svoboda |
+| 16.11-22.11      | Práce na shopu      |Doplnění wireframe, diagramů  |
+| 23.11-30.11      | debugging kódu po smrti      |Design úrovní   |
+| 30.11-6.12    | realizace bossů          |design skinů, návrh bossů |
