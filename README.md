@@ -6,7 +6,7 @@
 
 ## Představení
 - jméno: Cubee´s Adventure
-- hra bude určená pro všechni věkové kategorie
+- hra bude určená pro všechny věkové kategorie
 - finálním produktem je hra jménem Cubee´s Adventure
 - hra se zaměřuje hlavně na postřeh a lehce na logiku
 - jednoduchá hra, při tom úrovně můžou být zrádné a nevyzpytatelné
