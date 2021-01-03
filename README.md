@@ -12,21 +12,19 @@
 - jednoduchá hra, při tom úrovně můžou být zrádné a nevyzpytatelné
 
 ## Ovládaní 
-- ovladaní WASD, šipky
-- šipky mění v jakém patře se nacházíte 
-- WASD klasické ovládaní pohybu 
+- ovladaní šipky
+- šipky klasické ovládaní pohybu 
 
 ## Cíl hry
 - v různých úrovních se nachazejí různé, překážky přes které se musíte dostat do cíle
 - v kazdé úrovni se nachazí určity počet coinů
-- v některých úrovních je klíč, který musíte najít, aby bylo možné jít do dalších úrovní
-- po každých pěti úrovních se nachazí boss, přes kterého se musíte dostat, k otevření následující úrovně
+- po každých 4 úrovních se nachazí boss, přes kterého se musíte dostat
 
 ## překážky 
 - barevné brány, podle toho jakou máte barvu, takovou bránou budete moct projít
 - spike
-- zeď
 
 
 ## programy
 - Unity
+- Visual Studio
